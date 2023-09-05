@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+#result {
+    border-style: solid, black;
+    background-color: white;
+    color: black;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+}
